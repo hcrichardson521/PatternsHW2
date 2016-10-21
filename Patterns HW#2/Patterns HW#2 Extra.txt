@@ -1,0 +1,3 @@
+I created another command that causes the train to rise each time the square button is pressed.
+Once the train reaches a height of 2, it drops back to its original ground position.  I did this to 
+ensure that the train never went out of the bounds of the stoppers on either side.
